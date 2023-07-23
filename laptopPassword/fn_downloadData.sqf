@@ -1,0 +1,1 @@
+[8, [], {missionNamespace setVariable ["fileDownload",true,true]; closeDialog 1;playSound3D ["a3\ui_f\data\sound\cfgnotifications\tasksucceeded.wss", laptop];}, {}, "Backing Up Files"] call ace_common_fnc_progressBar;

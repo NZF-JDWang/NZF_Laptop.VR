@@ -1,0 +1,8 @@
+#include "laptopPassword\defines.hpp"
+#include "laptopPassword\laptopcontrols.hpp"
+#include "laptopPassword\downloadcontrols.hpp"
+
+class CfgFunctions
+{
+	#include "laptopPassword\cfgFunctions.hpp"
+};
